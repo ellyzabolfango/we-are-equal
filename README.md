@@ -60,8 +60,6 @@ INSERT INTO users (username, password, role) VALUES (
 
 This password hash corresponds to admin123.
 
+####
 Copyright ELLYZA JANE MANZANERO B.
 ilovyouu mwuaaaaaah
-
-
-Upload and run the file: setup.sql
